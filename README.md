@@ -1,8 +1,8 @@
 - 👋 Hi, I’m abhishek
 - 👀 I’m interested in everthing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on something
-- 📫 Reach me through clicking
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on JavaScript
+- 📫 Reach me mail
 
 <!---
 fragenabhishek/fragenabhishek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
