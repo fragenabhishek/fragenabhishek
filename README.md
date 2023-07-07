@@ -1,7 +1,5 @@
 - 👋 Hi, I’m abhishek
 - 👀 I’m interested in everthing
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript
 - 📫 Reach me abhishektoask@gmail.com
 
 <!---
