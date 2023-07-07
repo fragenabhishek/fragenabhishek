@@ -2,7 +2,7 @@
 <html>
 <head>
   <style>
-    /* Add your custom CSS styles here */
+    /* Add your custom CSS styles here  */
     body {
       font-family: Arial, sans-serif;
       background-color: #f5f5f5;
