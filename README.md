@@ -4,11 +4,11 @@
 <br>
 <h1>About me 🙋</h1>
 
-- 📚 I am Software Developer as profession.
-- 🔥 Fun fact: I am accidental programmer.
+- 📚 I am a Software Developer by profession
+- 🔥 I stumbled into programming accidentally, but it turned out to be a fortunate twist of fate.
 - 🤙 More about me: 
-[![Linkedin](https://img.shields.io/badge/-fragenabhishek?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedIn.com/in/)
-[![Instagram](https://img.shields.io/badge/-fragenabhishek?style=flat&logo=Instagram&logoColor=white&color=833AB4)](https://www.instagram.com/)
+[![Linkedin](https://img.shields.io/badge/-abhishek?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-singh-32b37011b/)
+[![Instagram](https://img.shields.io/badge/-?style=flat&logo=Instagram&logoColor=white&color=833AB4)](https://www.instagram.com/)
 [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:fragenabhishek@gmail.com)
 
 <br>
