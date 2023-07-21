@@ -7,8 +7,8 @@
 - 📚 I am Software Developer as profession.
 - 🔥 Fun fact: I am accidental programmer.
 - 🤙 More about me: 
-[![Linkedin](https://img.shields.io/badge/-Mei_Sun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedIn.com/in/)
-[![Instagram](https://img.shields.io/badge/-__momosunny-white?style=flat&logo=Instagram&logoColor=white&color=833AB4)](https://www.instagram.com/)
+[![Linkedin](https://img.shields.io/badge/-fragenabhishek?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedIn.com/in/)
+[![Instagram](https://img.shields.io/badge/-fragenabhishek?style=flat&logo=Instagram&logoColor=white&color=833AB4)](https://www.instagram.com/)
 [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:fragenabhishek@gmail.com)
 
 <br>
