@@ -4,33 +4,24 @@
 
 ### Full Stack Developer | AI/ML Enthusiast
 
+![Profile Views](https://komarev.com/ghpvc/?username=fragenabhishek&color=blueviolet&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/fragenabhishek?style=social)](https://github.com/fragenabhishek)
+
 </div>
 
 ##  Tech Stack
 
-**Frontend Development**
-- React.js, Next.js, TypeScript
-- HTML5, CSS3, TailwindCSS
-- Responsive Web Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,python,opencv,tensorflow,docker,kubernetes,aws,mongodb,postgres,html,css,tailwind,git&perline=9" />
+</p>
 
-**Backend Development**
-- Node.js, Express.js
-- RESTful APIs
-- Python
+---
 
-**AI/ML & Computer Vision**
-- OpenCV, TensorFlow
-- Face Detection & Recognition
-- Handwritten Digit Recognition
-- Machine Learning Models
+##  GitHub Trophies
 
-**DevOps & Cloud**
-- Docker, Kubernetes
-- AWS, CI/CD Pipelines
-- Git & GitHub
-
-**Databases**
-- MongoDB, PostgreSQL
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fragenabhishek&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
 
 ---
 
@@ -47,11 +38,18 @@
 
 ---
 
+##  Featured Projects
+
+-  **AI/ML Projects**: Face Detection & Recognition, Handwritten Digit Recognition
+-  **Web Development**: Full-stack applications with React & Node.js
+-  **Open Source Contributions**: Active contributor to various projects
+
+---
+
 <div align="center">
   
 ###  _"The best error message is the one that never shows up."_
 
-[![GitHub followers](https://img.shields.io/github/followers/fragenabhishek?style=social)](https://github.com/fragenabhishek)
-[![GitHub stars](https://img.shields.io/github/stars/fragenabhishek?style=social)](https://github.com/fragenabhishek)
+**Let's connect and build something amazing together!** 
 
 </div>
