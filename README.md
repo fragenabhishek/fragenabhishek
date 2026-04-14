@@ -34,27 +34,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/fragenabhishek/People-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fragenabhishek&repo=People-Manager&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/fragenabhishek/eventually-consistent-engineer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fragenabhishek&repo=eventually-consistent-engineer&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/fragenabhishek/fileshare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fragenabhishek&repo=fileshare&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/fragenabhishek/heic-converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fragenabhishek&repo=heic-converter&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -71,14 +50,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fragenabhishek/fragenabhishek/output/github-contribution-grid-snake.svg" />
     <img alt="snake eating contributions" src="https://raw.githubusercontent.com/fragenabhishek/fragenabhishek/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fragenabhishek&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
