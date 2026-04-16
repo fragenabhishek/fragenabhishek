@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently building **[eventually-consistent-engineer](https://github.com/fragenabhishek/eventually-consistent-engineer)** — daily System Design (HLD/LLD) & Design Patterns in Java
-- 🌱 Learning **Distributed Systems**, **Kafka**, and **Spring Boot** internals
+- 🌱 Learning **Distributed Systems**, **Kafka**, and **Spring Boot**
 - 🛠️ I build tools that solve real problems: file sharing, AI-powered contact management, batch converters
 - 💬 Ask me about **Java**, **System Design**, or **Full Stack** development
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-singh-32b37011b/)**
